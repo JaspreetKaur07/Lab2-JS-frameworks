@@ -1,5 +1,5 @@
 # Lab2-JS-frameworks
-Assignment Description
+
 In this assignment, we learned how to use Node.js and create our own modules. We made a project with two JavaScript files: one to run the application and another with some helpful functions.
 
  The four functions are:
